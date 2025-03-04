@@ -35,7 +35,7 @@ The dataset consists of meteorological and environmental factors that influence 
 To set up the project on your local machine, follow these steps:
 
 # Clone the repository
-$ git clone https://github.com/rchqai/Algerian-Forest.git
+$ git clone https://github.com/ADDY-IN/Algerian-Forest.git
 
 # Navigate to the project directory
 $ cd Algerian-Forest
@@ -74,6 +74,6 @@ Feel free to fork the repository and contribute! PRs are welcome. 🎉
 
 💬 Contact
 
-👨‍💻 Developed by rchqai 📧 Email: rchq.in@icloud.com 🔗 GitHub: rchqai
+👨‍💻 Developed by ADDY-IN 📧 Email: addyyy.in@gmail.com 🔗 GitHub: ADDY-IN
 
 🚀 Let's work together to prevent wildfires and protect nature! 🌳🔥
